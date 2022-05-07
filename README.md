@@ -1,4 +1,4 @@
-# 🔐 Password Generator Starter Code
+# 🔐 Password Generator
 
 - As a developer, I want to fabricate a random password generater that provides greater security for users
 
